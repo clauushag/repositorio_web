@@ -37,7 +37,7 @@ Tras haber terminado mi proyecto he llegado a distintas conclusiones.
 
 En primer lugar, al usar páginas web a diario y al estar acostumbrados a ello, no damos el valor real al trabajo que hay detrás de los Front-Ends que vemos continuamente. Creemos que es realmente algo sencillo porque lo encontramos por todas partes pero, en realidad es un trabajo muy costoso y laborioso.
 
-Además, a mí personalmente me dijeron que construir páginas web en HTML era algo sencillo. Respecto a ello, creo que tras haber aprendido a usar etiquetas, sus funciones y la forma de organizarse , podría decir que no es una tarea muy compleja; pero si que es cierto que es "complicado" en el sentido de la adaptación a la forma de trabajar en el lenguaje y también en el momento que vas encontrando errores, buscar la solución y poder cambiarlos. Para hacer una web correctamente y que sea atractiva hace falta dedicarle mucho tiempo y trabajo.
+Además, a mí personalmente me dijeron que construir páginas web en HTML era algo sencillo. Respecto a ello, creo que tras haber aprendido a usar etiquetas, sus funciones y la forma de organizarse , podría decir que no es una tarea muy compleja; pero si que es cierto que es "complicado" en el sentido de la adaptación a la forma de trabajar en el lenguaje y también en el momento que vas encontrando errores, buscar la solución y poder cambiarlos. Para hacer una web correctamente y que sea atractiva hace falta dedicarle mucho tiempo, trabajo y conocimientos en experiencia de usuario que de momento considero que no tengo.
 
 Con todo, me ha gustado aprender sobre diseño web pero creo (al menos por ahora), que no me dedicaría profesionalmente a ello.
 
