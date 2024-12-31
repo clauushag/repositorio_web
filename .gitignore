@@ -1,0 +1,43 @@
+# Archivos generados por el sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración local
+*.env
+*.local
+*.log
+
+# Directorios y archivos de build
+dist/
+build/
+out/
+*.min.css
+*.min.js
+
+# Caché y temporales
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Node.js (si estás usando herramientas de construcción)
+node_modules/
+
+# Archivos de preprocesadores CSS (SASS/LESS)
+*.sass-cache/
+*.scssc
+*.map
+
+# Archivos generados por IDEs y editores
+.idea/
+.vscode/
+*.iml
+
+# Archivos de log y debugging
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Directorios de herramientas de testeo
+coverage/
+*.coverage
